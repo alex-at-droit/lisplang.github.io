@@ -250,8 +250,6 @@ different libraries here)
 
 ## Syntax
 
-- [cl21](http://cl21.org/): A redesign of Common Lisp, implemented in Common
-  Lisp.
 - [cl-syntax](https://github.com/m2ym/cl-syntax): Building blocks for extending
   the syntax.
 - [cl-annot](https://github.com/arielnetworks/cl-annot): Decorator syntax.
